@@ -12,5 +12,5 @@ Ecommerce website
 ![image](https://i.imgur.com/9fUTX7h.png)
 ![image](https://i.imgur.com/IMJaGnA.png)
 ![image](https://i.imgur.com/75ekfRs.png)
-![image](https://imgur.com/Y1F6jFc)
+![image](https://imgur.com/Y1F6jFc.png)
 
