@@ -1,8 +1,23 @@
 
-Ecommerce website 
+# Ecommerce website, web pequeña para publicar artículos y realizar compra.
+
+# Tecnologías Utilizadas:
+
+-NextJs
+
+-Sanity
+
+-Stripe
+
+-HTML
+
+-CSS
+
+
+# Home de la Web
 ![eCommerce](https://i.imgur.com/4XVnMsA.png)
 
-## Imagenes de la Web - Link = https://ecommerce-with-sanity-eta.vercel.app/
+## Imágenes de la Web - Link = https://ecommerce-with-sanity-eta.vercel.app/
 
 
 
