@@ -14,6 +14,7 @@ A simple web application of ecommerce, in this website you can create a product 
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Contribution](#contribution)
+- [Credits](#credits)
 - [License](#license)
 
 ## Demo
@@ -23,20 +24,80 @@ Live Project: https://ecommerce-with-sanity-eta.vercel.app/
 ## Installation
 
 A step-by-step guide on how to install and set up your project.
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/Bryan18201/ecommerce_with_sanity
 ```
-# Change directory
+## Change directory
 ```bash
 cd ecommerce_sanity_stripe-main
 ```
 ```bash
 cd sanity_ecommerce
 ```
-# Install dependencies
+## Install dependencies
 ```bash
 npm install
 ```
-## Need to install the dependencies in the both folders the first folder is for the frontend and the second is for backend with Sanity.
+ Need to install the dependencies in both folders the first one is for the frontend and the second one is for the backend with Sanity.
+
+## Configuration 
+
+ **Create a .env file in the root of the project and add the following environment variables:**
+
+**- NEXT_PUBLIC_SANITY_TOKEN=** [your Sanity token]
+
+**- NEXT_PUBLIC_STRIPE_SECRET_KEY=** [your Stripe secret key]
+
+**- NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=** [your Stripe publish key]
+
+## Usage
+
+- First start both servers:
+  
+**Frontend:**
+
+```bash
+cd ecommerce_sanity_stripe-main
+```
+
+```bash
+npm run server
+```
+
+**Backend:**
+
+```bash 
+cd sanity_ecommerce
+```
+
+```bash
+sanity start
+```
+
+- Login in Sanity
+  
+- Customize to your liking, add, edit, update, products to your liking.
+
+- That's all enjoyment :)
+
+## Contribution
+If you want to contribute to this project, follow these steps:
+
+1. Fork the repository.
+
+2. Create a branch for your contribution: git checkout -b feature/new-feature.
+
+3. Make your changes and commit: git commit -m "Add new feature".
+
+4. Push your branch: git push origin feature/new-feature.
+
+5. Create a pull request on GitHub.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Credits
+This project was built under the guidance of [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) Youtube channel for learning purposes.
+
 
